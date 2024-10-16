@@ -1,2 +1,2 @@
-# Metrolog-a
+# Metrologia
 Tareas de metrología python
